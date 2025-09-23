@@ -5,6 +5,7 @@ This repository is a centralized collection of datasets used for RAT Detection M
 **Samples sources**
 
 1- The RAT samples were collected from MalwareBazaar.
+
 2- The benign samples were collected from GitHub, Microsoft applications, and Softonic.
 
 **Data Acquisition**
