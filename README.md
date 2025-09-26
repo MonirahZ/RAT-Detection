@@ -9,5 +9,5 @@ A centralized repository for storing and sharing RAT detection Method based on B
 
 **Data Acquisition**
 
-The Dataset is illustrated in the image below:
+The Dataset acquisition is illustrated in the image below:
 ![Dataset Preview](images/CollectingTherawdata.png)****
