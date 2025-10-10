@@ -7,17 +7,21 @@ A centralized repository for storing and sharing RAT detection Method based on B
 
 2- The benign samples were collected from GitHub, Microsoft applications, and Softonic.
 
-**Data Acquisition**
-
-The Dataset acquisition is illustrated in the image below:
-
-
 **Dataset Description**
 
 The dataset is labeled with two distinct categories indecated by the Type field: 
 
 - **Type = 0** RAT samples.
 - **Type = 1** Benign samples.
+
+  
+
+**Data Acquisition**
+
+The Dataset acquisition is illustrated in the image below:
+
+
+
 
 
 ![Dataset Preview](images/CollectingTherawdata.png)****
